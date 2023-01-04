@@ -1,0 +1,25 @@
+body{
+    background-image: url("back.webp");
+    background-repeat: no-repeat;
+    background-size: 100%  ;
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+
+p{
+    color: white;
+    text-align: left;
+    float: left;
+}
+img{
+    float: right;   
+    width: 700px;
+    height: 400px;
+}
+.jobb{
+    float:right ;
+}
